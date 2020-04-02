@@ -6,10 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 徐代龙的技术专栏
-brief-intro: Android and Python Coder
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://643435675.github.io" # the base hostname & protocol for your site
+title: Sulfone's Blog                    #你博客的标题
+SEOTitle: Sulfone's Blog        #显示在浏览器上搜索的时候显示的标题
+#header-img: img/post-bg-rwd.jpg     #显示在首页的背景图片
+email: SulfoneFu@gmail.com    
+description: "You Blog"              #网站介绍
+keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone" #关键词
+url: "https://SulfoneFu.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写 the subpath of your site, e.g. /blog
 
 permalink: /:year/:month/:day/:title/
 
